@@ -1,0 +1,23 @@
+2023-01-09T17:02:02.574432Z	Cloning repository...
+2023-01-09T17:02:04.113291Z	From https://github.com/Nishnj/static
+2023-01-09T17:02:04.113811Z	 * branch            f0e5f171140c9e52c2ba729cf3ca4b88575abbb4 -> FETCH_HEAD
+2023-01-09T17:02:04.113982Z	
+2023-01-09T17:02:04.14151Z	HEAD is now at f0e5f17 Update README.md
+2023-01-09T17:02:04.141985Z	
+2023-01-09T17:02:04.26751Z	
+2023-01-09T17:02:04.291067Z	Success: Finished cloning repository files
+2023-01-09T17:02:04.864315Z	No build command specified. Skipping build step.
+2023-01-09T17:02:04.86476Z	Note: No functions dir at /functions found. Skipping.
+2023-01-09T17:02:04.864885Z	Validating asset output directory
+2023-01-09T17:02:05.566738Z	Deploying your site to Cloudflare's global network...
+2023-01-09T17:02:07.585192Z	 Uploading... (0/2)
+2023-01-09T17:02:07.585884Z	
+2023-01-09T17:02:08.13308Z	[2K[1A[2K[1A[2K[G Uploading... (1/2)
+2023-01-09T17:02:08.133465Z	
+2023-01-09T17:02:08.182997Z	[2K[1A[2K[1A[2K[G Uploading... (2/2)
+2023-01-09T17:02:08.183299Z	
+2023-01-09T17:02:08.185686Z	✨ Success! Uploaded 2 files (1.24 sec)
+2023-01-09T17:02:08.185979Z	
+2023-01-09T17:02:08.608571Z	✨ Upload complete!
+2023-01-09T17:02:10.064138Z	Success: Assets published!
+2023-01-09T17:02:10.593763Z	Success: Your site was deployed!
